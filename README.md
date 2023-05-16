@@ -2,7 +2,6 @@
 
 Lab files for **The Kubernetes Book**.
 
-Enjoy!
 
 ---
 ## Master branch renamed to main
